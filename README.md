@@ -1,4 +1,6 @@
-[Super Store Sales Dashboard.pdf](https://github.com/user-attachments/files/20124148/Super.Store.Sales.Dashboard.pdf)
+![Image](https://github.com/user-attachments/assets/b798e009-2cf6-496d-b630-dbb1bfa2b5f4)
+
+![Image](https://github.com/user-attachments/assets/b8610410-52b7-4c44-8a9a-82113330184f)
 
 # 📊 Super Store Sales Dashboard
 

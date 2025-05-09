@@ -34,13 +34,6 @@ The dashboard includes the following key components:
 - **Superstore Dataset (Sample Data)**
 - Time Series Forecasting (Built-in analytics)
 
-## 📁 Files Included
-
-- `Super Store Sales Dashboard.pdf` – A PDF export of the Power BI dashboard
-
-## 📸 Dashboard Preview
-
-*To see the dashboard visually, open the PDF file in the repo.*
 
 ## 📌 Key Metrics
 

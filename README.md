@@ -1,10 +1,10 @@
-![Image](https://github.com/user-attachments/assets/b798e009-2cf6-496d-b630-dbb1bfa2b5f4)
-
-![Image](https://github.com/user-attachments/assets/b8610410-52b7-4c44-8a9a-82113330184f)
-
 # 📊 Super Store Sales Dashboard
 
 This project showcases an interactive Power BI dashboard built from the popular *Superstore* dataset. It highlights comprehensive sales and profit performance metrics across different dimensions such as category, subcategory, state, region, segment, ship mode, and payment type. The dashboard also includes a 15-day sales forecast using historical data trends.
+
+![Image](https://github.com/user-attachments/assets/b798e009-2cf6-496d-b630-dbb1bfa2b5f4)
+
+![Image](https://github.com/user-attachments/assets/b8610410-52b7-4c44-8a9a-82113330184f)
 
 ## 🧾 Dashboard Overview
 
